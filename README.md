@@ -92,5 +92,5 @@ To run CodeGenius, you'll need:
 
 -----
 
+<img width="1483" height="852" alt="image" src="https://github.com/user-attachments/assets/a31c6c8d-80d9-467f-9b98-7a7df3da6ca6" /> <img width="434" height="880" alt="image" src="https://github.com/user-attachments/assets/47413f11-507e-40e7-b118-f0a4db1c982d" />
 
-http://googleusercontent.com/youtube_content/0
