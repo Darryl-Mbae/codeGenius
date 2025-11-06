@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a31c6c8d-80d9-467f-9b98-7a7df3da6ca6" alt="Laptop showing CodeGenius documentation" width="70%">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/47413f11-507e-40e7-b118-f0a4db1c982d" alt="Phone showing CodeGenius documentation" width="30%">
+  <img src="https://github.com/user-attachments/assets/47413f11-507e-40e7-b118-f0a4db1c982d" alt="Phone showing CodeGenius documentation" width="20%">
 </p>
 
 ---
