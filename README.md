@@ -5,12 +5,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a31c6c8d-80d9-467f-9b98-7a7df3da6ca6" alt="Laptop showing CodeGenius documentation" width="45%">
+  <img src="https://github.com/user-attachments/assets/a31c6c8d-80d9-467f-9b98-7a7df3da6ca6" alt="Laptop showing CodeGenius documentation" width="70%">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/47413f11-507e-40e7-b118-f0a4db1c982d" alt="Phone showing CodeGenius documentation" width="30%">
 </p>
-<img width="1483" height="852" alt="image" src="https://github.com/user-attachments/assets/9605f2e9-ee01-4ad6-bac6-a2ce9d50b864" />
-<img width="434" height="880" alt="image" src="https://github.com/user-attachments/assets/3a489305-7479-4c96-a115-bc4f990f7a89" />
 
 ---
 
