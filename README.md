@@ -1,5 +1,3 @@
-As the developer of CodeGenius, here is a detailed, structured README.md based on the project's purpose and architecture as outlined in the assignment specifications.
-
 # 🧠 CodeGenius: The Agentic Code-Documentation System
 
 -----
